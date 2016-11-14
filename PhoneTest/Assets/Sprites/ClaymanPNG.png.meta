@@ -1,0 +1,3025 @@
+fileFormatVersion: 2
+guid: f96fba50d3af7d947869be16ac1de5fb
+timeCreated: 1474628416
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ClaymanPNG_0
+    21300002: ClaymanPNG_1
+    21300004: ClaymanPNG_2
+    21300006: ClaymanPNG_3
+    21300008: ClaymanPNG_4
+    21300010: ClaymanPNG_5
+    21300012: ClaymanPNG_6
+    21300014: ClaymanPNG_7
+    21300016: ClaymanPNG_8
+    21300018: ClaymanPNG_9
+    21300020: ClaymanPNG_10
+    21300022: ClaymanPNG_11
+    21300024: ClaymanPNG_12
+    21300026: ClaymanPNG_13
+    21300028: ClaymanPNG_14
+    21300030: ClaymanPNG_15
+    21300032: ClaymanPNG_16
+    21300034: ClaymanPNG_17
+    21300036: ClaymanPNG_18
+    21300038: ClaymanPNG_19
+    21300040: ClaymanPNG_20
+    21300042: ClaymanPNG_21
+    21300044: ClaymanPNG_22
+    21300046: ClaymanPNG_23
+    21300048: ClaymanPNG_24
+    21300050: ClaymanPNG_25
+    21300052: ClaymanPNG_26
+    21300054: ClaymanPNG_27
+    21300056: ClaymanPNG_28
+    21300058: ClaymanPNG_29
+    21300060: ClaymanPNG_30
+    21300062: ClaymanPNG_31
+    21300064: ClaymanPNG_32
+    21300066: ClaymanPNG_33
+    21300068: ClaymanPNG_34
+    21300070: ClaymanPNG_35
+    21300072: ClaymanPNG_36
+    21300074: ClaymanPNG_37
+    21300076: ClaymanPNG_38
+    21300078: ClaymanPNG_39
+    21300080: ClaymanPNG_40
+    21300082: ClaymanPNG_41
+    21300084: ClaymanPNG_42
+    21300086: ClaymanPNG_43
+    21300088: ClaymanPNG_44
+    21300090: ClaymanPNG_45
+    21300092: ClaymanPNG_46
+    21300094: ClaymanPNG_47
+    21300096: ClaymanPNG_48
+    21300098: ClaymanPNG_49
+    21300100: ClaymanPNG_50
+    21300102: ClaymanPNG_51
+    21300104: ClaymanPNG_52
+    21300106: ClaymanPNG_53
+    21300108: ClaymanPNG_54
+    21300110: ClaymanPNG_55
+    21300112: ClaymanPNG_56
+    21300114: ClaymanPNG_57
+    21300116: ClaymanPNG_58
+    21300118: ClaymanPNG_59
+    21300120: ClaymanPNG_60
+    21300122: ClaymanPNG_61
+    21300124: ClaymanPNG_62
+    21300126: ClaymanPNG_63
+    21300128: ClaymanPNG_64
+    21300130: ClaymanPNG_65
+    21300132: ClaymanPNG_66
+    21300134: ClaymanPNG_67
+    21300136: ClaymanPNG_68
+    21300138: ClaymanPNG_69
+    21300140: ClaymanPNG_70
+    21300142: ClaymanPNG_71
+    21300144: ClaymanPNG_72
+    21300146: ClaymanPNG_73
+    21300148: ClaymanPNG_74
+    21300150: ClaymanPNG_75
+    21300152: ClaymanPNG_76
+    21300154: ClaymanPNG_77
+    21300156: ClaymanPNG_78
+    21300158: ClaymanPNG_79
+    21300160: ClaymanPNG_80
+    21300162: ClaymanPNG_81
+    21300164: ClaymanPNG_82
+    21300166: ClaymanPNG_83
+    21300168: ClaymanPNG_84
+    21300170: ClaymanPNG_85
+    21300172: ClaymanPNG_86
+    21300174: ClaymanPNG_87
+    21300176: ClaymanPNG_88
+    21300178: ClaymanPNG_89
+    21300180: ClaymanPNG_90
+    21300182: ClaymanPNG_91
+    21300184: ClaymanPNG_92
+    21300186: ClaymanPNG_93
+    21300188: ClaymanPNG_94
+    21300190: ClaymanPNG_95
+    21300192: ClaymanPNG_96
+    21300194: ClaymanPNG_97
+    21300196: ClaymanPNG_98
+    21300198: ClaymanPNG_99
+    21300200: ClaymanPNG_100
+    21300202: ClaymanPNG_101
+    21300204: ClaymanPNG_102
+    21300206: ClaymanPNG_103
+    21300208: ClaymanPNG_104
+    21300210: ClaymanPNG_105
+    21300212: ClaymanPNG_106
+    21300214: ClaymanPNG_107
+    21300216: ClaymanPNG_108
+    21300218: ClaymanPNG_109
+    21300220: ClaymanPNG_110
+    21300222: ClaymanPNG_111
+    21300224: ClaymanPNG_112
+    21300226: ClaymanPNG_113
+    21300228: ClaymanPNG_114
+    21300230: ClaymanPNG_115
+    21300232: ClaymanPNG_116
+    21300234: ClaymanPNG_117
+    21300236: ClaymanPNG_118
+    21300238: ClaymanPNG_119
+    21300240: ClaymanPNG_120
+    21300242: ClaymanPNG_121
+    21300244: ClaymanPNG_122
+    21300246: ClaymanPNG_123
+    21300248: ClaymanPNG_124
+    21300250: ClaymanPNG_125
+    21300252: ClaymanPNG_126
+    21300254: ClaymanPNG_127
+    21300256: ClaymanPNG_128
+    21300258: ClaymanPNG_129
+    21300260: ClaymanPNG_130
+    21300262: ClaymanPNG_131
+    21300264: ClaymanPNG_132
+    21300266: ClaymanPNG_133
+    21300268: ClaymanPNG_134
+    21300270: ClaymanPNG_135
+    21300272: ClaymanPNG_136
+    21300274: ClaymanPNG_137
+    21300276: ClaymanPNG_138
+    21300278: ClaymanPNG_139
+    21300280: ClaymanPNG_140
+    21300282: ClaymanPNG_141
+    21300284: ClaymanPNG_142
+    21300286: ClaymanPNG_143
+    21300288: ClaymanPNG_144
+    21300290: ClaymanPNG_145
+    21300292: ClaymanPNG_146
+    21300294: ClaymanPNG_147
+    21300296: ClaymanPNG_148
+    21300298: ClaymanPNG_149
+    21300300: ClaymanPNG_150
+    21300302: ClaymanPNG_151
+    21300304: ClaymanPNG_152
+    21300306: ClaymanPNG_153
+    21300308: ClaymanPNG_154
+    21300310: ClaymanPNG_155
+    21300312: ClaymanPNG_156
+    21300314: ClaymanPNG_157
+    21300316: ClaymanPNG_158
+    21300318: ClaymanPNG_159
+    21300320: ClaymanPNG_160
+    21300322: ClaymanPNG_161
+    21300324: ClaymanPNG_162
+    21300326: ClaymanPNG_163
+    21300328: ClaymanPNG_164
+    21300330: ClaymanPNG_165
+    21300332: ClaymanPNG_166
+    21300334: ClaymanPNG_167
+    21300336: ClaymanPNG_168
+    21300338: ClaymanPNG_169
+    21300340: ClaymanPNG_170
+    21300342: ClaymanPNG_171
+    21300344: ClaymanPNG_172
+    21300346: ClaymanPNG_173
+    21300348: ClaymanPNG_174
+    21300350: ClaymanPNG_175
+    21300352: ClaymanPNG_176
+    21300354: ClaymanPNG_177
+    21300356: ClaymanPNG_178
+    21300358: ClaymanPNG_179
+    21300360: ClaymanPNG_180
+    21300362: ClaymanPNG_181
+    21300364: ClaymanPNG_182
+    21300366: ClaymanPNG_183
+    21300368: ClaymanPNG_184
+    21300370: ClaymanPNG_185
+    21300372: ClaymanPNG_186
+    21300374: ClaymanPNG_187
+    21300376: ClaymanPNG_188
+    21300378: ClaymanPNG_189
+    21300380: ClaymanPNG_190
+    21300382: ClaymanPNG_191
+    21300384: ClaymanPNG_192
+    21300386: ClaymanPNG_193
+    21300388: ClaymanPNG_194
+    21300390: ClaymanPNG_195
+    21300392: ClaymanPNG_196
+    21300394: ClaymanPNG_197
+    21300396: ClaymanPNG_198
+    21300398: ClaymanPNG_199
+    21300400: ClaymanPNG_200
+    21300402: ClaymanPNG_201
+    21300404: ClaymanPNG_202
+    21300406: ClaymanPNG_203
+    21300408: ClaymanPNG_204
+    21300410: ClaymanPNG_205
+    21300412: ClaymanPNG_206
+    21300414: ClaymanPNG_207
+    21300416: ClaymanPNG_208
+    21300418: ClaymanPNG_209
+    21300420: ClaymanPNG_210
+    21300422: ClaymanPNG_211
+    21300424: ClaymanPNG_212
+    21300426: ClaymanPNG_213
+    21300428: ClaymanPNG_214
+    21300430: ClaymanPNG_215
+    21300432: ClaymanPNG_216
+    21300434: ClaymanPNG_217
+    21300436: ClaymanPNG_218
+    21300438: ClaymanPNG_219
+    21300440: ClaymanPNG_220
+    21300442: ClaymanPNG_221
+    21300444: ClaymanPNG_222
+    21300446: ClaymanPNG_223
+    21300448: ClaymanPNG_224
+    21300450: ClaymanPNG_225
+    21300452: ClaymanPNG_226
+    21300454: ClaymanPNG_227
+    21300456: ClaymanPNG_228
+    21300458: ClaymanPNG_229
+    21300460: ClaymanPNG_230
+    21300462: ClaymanPNG_231
+    21300464: ClaymanPNG_232
+    21300466: ClaymanPNG_233
+    21300468: ClaymanPNG_234
+    21300470: ClaymanPNG_235
+    21300472: ClaymanPNG_236
+    21300474: ClaymanPNG_237
+    21300476: ClaymanPNG_238
+    21300478: ClaymanPNG_239
+    21300480: ClaymanPNG_240
+    21300482: ClaymanPNG_241
+    21300484: ClaymanPNG_242
+    21300486: ClaymanPNG_243
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ClaymanPNG_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 590
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 590
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 591
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 590
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 590
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 591
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 590
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 590
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 590
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 592
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 590
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 590
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 592
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 590
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 590
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_15
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 591
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_16
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 590
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_17
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 590
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_18
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 591
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_19
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 590
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 556
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 556
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 557
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 557
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_24
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 557
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 557
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 556
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_27
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 556
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_28
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 556
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_29
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 558
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_30
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 557
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_31
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 557
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 559
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_33
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 556
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_34
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 556
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_35
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 557
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_36
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 557
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_37
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 557
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_38
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 557
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_39
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 556
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 522
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 522
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 523
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 522
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 522
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 522
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 522
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_47
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 522
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_48
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 522
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_49
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 525
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_50
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 522
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 522
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_52
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 524
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_53
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 522
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_54
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 522
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_55
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 523
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_56
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 522
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_57
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 522
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_58
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 522
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_59
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 522
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_60
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 488
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 489
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_62
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 489
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 488
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_64
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 488
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_65
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 488
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_66
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 488
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_67
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 488
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_68
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 488
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 489
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_70
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 489
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_71
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 489
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_72
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 488
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_73
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 488
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_74
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 489
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_75
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 489
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_76
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 488
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_77
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 488
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_78
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 488
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_79
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 488
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_80
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 454
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_81
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 454
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_82
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 454
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_83
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 454
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 454
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_85
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 454
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_86
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 454
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_87
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 455
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_88
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 455
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_89
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 454
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_90
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 455
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_91
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 455
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_92
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 454
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_93
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 454
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_94
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 454
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_95
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 454
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_96
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 454
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_97
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 454
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_98
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 454
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_99
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 454
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_100
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 423
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_101
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 420
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_102
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 421
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_103
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 421
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 422
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_105
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 423
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_106
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 423
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_107
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 427
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_108
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 422
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_109
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 422
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_110
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 423
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_111
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_112
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 423
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_113
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 421
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_114
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: ClaymanPNG_115
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+        - {x: 13, y: 16}
+    - name: ClaymanPNG_116
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 420
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_117
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: ClaymanPNG_118
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+        - {x: 13, y: 16}
+    - name: ClaymanPNG_119
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 420
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_120
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 347
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_121
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 386
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_122
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 387
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_123
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 386
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_124
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 386
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_125
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 389
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_126
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 386
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_127
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 386
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_128
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 387
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_129
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 387
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_130
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 387
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_131
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 388
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_132
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 388
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_133
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 390
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_134
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 389
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_135
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 388
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_136
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 347
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_137
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 347
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_138
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 347
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_139
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 347
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_140
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 330
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_141
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 330
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_142
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 330
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_143
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 330
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_144
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 330
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_145
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 330
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_146
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 352
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_147
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 352
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_148
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 353
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_149
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 352
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_150
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 352
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_151
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 353
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_152
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 352
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_153
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_154
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 297
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_155
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 297
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_156
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 297
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_157
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 297
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_158
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 296
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_159
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 296
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_160
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 296
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_161
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 296
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_162
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 296
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_163
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 296
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_164
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 318
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_165
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 319
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_166
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 318
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_167
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 318
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_168
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 318
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_169
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 318
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_170
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 318
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_171
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 284
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_172
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 284
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_173
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 284
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_174
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 284
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_175
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 284
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_176
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 284
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_177
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 284
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_178
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 221
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 16}
+        - {x: -17, y: 16}
+        - {x: -24, y: 11}
+        - {x: -24, y: -14}
+        - {x: -20, y: -16}
+        - {x: 21, y: -16}
+        - {x: 24, y: -10}
+        - {x: 24, y: 6}
+    - name: ClaymanPNG_179
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 218
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 25.5}
+        - {x: -25.5, y: 19.5}
+        - {x: -25.5, y: -22.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 24.5, y: -25.5}
+        - {x: 25.5, y: -24.5}
+        - {x: 25.5, y: 13.5}
+        - {x: 12.5, y: 25.5}
+    - name: ClaymanPNG_180
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 245
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_181
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 244
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_182
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 242
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_183
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 243
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_184
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 241
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_185
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 239
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_186
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 241
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_187
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 242
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_188
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 242
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_189
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 241
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_190
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 241
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_191
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 240
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_192
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 239
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_193
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 198
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_194
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 195
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_195
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 196
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_196
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 195
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_197
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 195
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_198
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 195
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_199
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 196
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_200
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 196
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_201
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 127
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_202
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 151
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_203
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 148
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_204
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 149
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_205
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 150
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_206
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 149
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_207
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 148
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_208
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 151
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_209
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 152
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_210
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 150
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_211
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 149
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_212
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 149
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_213
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 148
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_214
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 147
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_215
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 83
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_216
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -16, y: 4}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+        - {x: 9, y: 16}
+    - name: ClaymanPNG_217
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 103
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_218
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 101
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_219
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 101
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_220
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 104
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_221
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 102
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_222
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 101
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_223
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 101
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_224
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 103
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_225
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 104
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_226
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 102
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_227
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 100
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_228
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 99
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_229
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 99
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_230
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 99
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_231
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 62
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_232
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 62
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_233
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 62
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_234
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 62
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_235
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 62
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_236
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 62
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_237
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 62
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_238
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 62
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_239
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 62
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_240
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 62
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_241
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 62
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_242
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 62
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ClaymanPNG_243
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 62
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
