@@ -18,8 +18,12 @@
 # =============== #
 # Unity generated #
 # =============== #
-Temp/
-Library/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
